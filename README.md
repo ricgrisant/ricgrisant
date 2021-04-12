@@ -18,9 +18,6 @@ I feel high Skilled at:
 ## GitHub Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricgrisant&show_icons=true&theme=merko)
-
-## Top Languages 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricgrisant&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 # Full Stack Repos
