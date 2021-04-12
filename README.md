@@ -6,14 +6,6 @@ I'm a software developer passionate about web technologies, I also love the firs
 
 As a developer, I am excited to learn new technologies and put all my effort to make sure that what I do surpass people's expectations, I also enjoy been challenged with works that make me feel uncomfortable to grow as a developer and professional in this constantly changing industry.
 
-I love to add value to a team and work with people who have the same excitement and effort as me to achieve great things together and conquer any challenge.
-
-I feel high Skilled at:
-1. Understand real-world problems and find a code solution for them.
-2. Good knowledge of PHP and OOP.
-3. Good knowledge of Databases with stored procedures, triggers, complex queries, and aggregation functions.
-4. Learn fast new technologies.
-
 # Stats
 ## GitHub Stats
 
