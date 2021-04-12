@@ -9,8 +9,9 @@ As a developer, I am excited to learn new technologies and put all my effort to 
 # Stats
 ## GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricgrisant&show_icons=true&theme=merko)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricgrisant&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricgrisant&theme=merko)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricgrisant&layout=compact&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 # Full Stack Repos
 
