@@ -2,7 +2,5 @@
 
 My name is Ricardo Grijalva
 
-I'm a software developer passionate about web technologies, I also love the first step in the making of an app, analysis, and design.
-
-As a developer, I am excited to learn new technologies and put all my effort to make sure that what I do surpass people's expectations, I also enjoy been challenged with works that make me feel uncomfortable to grow as a developer and professional in this constantly changing industry.
+With three years of experience as a data analyst in an Electronic Marketing department, I specialize in managing, analyzing, cleaning, and optimizing data. I am proficient in various tools and technologies, including SQL, Excel, programming, API integration, ETL creation, and marketing automation. My experience focuses on providing data insights, generating comprehensive reports, and creating, troubleshooting, and reviewing data loading/movement processes between different platforms.
 
